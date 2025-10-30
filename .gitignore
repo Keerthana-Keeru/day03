@@ -1,0 +1,6 @@
+data/
+dir/
+*.gz
+*.ubyte
+Mnist_mlp_keras.py
+cifar10_mlp_keras.ipynb
